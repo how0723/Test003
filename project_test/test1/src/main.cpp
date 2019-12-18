@@ -11,7 +11,7 @@ TEST_CASE("test2", "[test1]")
   REQUIRE(1 == 2);
 }
 
-TEST_CASE("test2", "[test1]")
+TEST_CASE("test3", "[test1]")
 {
   REQUIRE(1 < 2);
 }
