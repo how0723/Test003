@@ -16,9 +16,6 @@
     <Filter Include="doc">
       <UniqueIdentifier>{d9b396e1-6fa5-4b98-ba76-4289dac2d828}</UniqueIdentifier>
     </Filter>
-    <Filter Include="src\utils">
-      <UniqueIdentifier>{67fd6ae0-836e-4fba-b2b6-a70b6a049685}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\dllmain.cpp">
